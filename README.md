@@ -8,4 +8,4 @@ When the user scrolls close to the bottom of the page the app makes another GET 
 Responsive on large and small screens with the help of the CSS media queries.
 
 Usage
-Just browse to 
+Just browse to https://johannlhd.github.io/Unplash-Dog-Collection/
