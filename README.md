@@ -10,3 +10,5 @@ This is a simple training app based on HTML, CSS and Javascript.
 # Usage
 Generate a random Quote
 🔗[Shiba Collections](https://johannlhd.github.io/Unplash-Dog-Collection/)
+
+![Dog-collection](https://user-images.githubusercontent.com/95428531/150186627-c0f0419d-75ea-45bc-a7dd-12f404b66207.png)
